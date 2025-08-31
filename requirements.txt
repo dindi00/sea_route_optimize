@@ -1,0 +1,7 @@
+streamlit
+pandas
+shapely
+folium
+streamlit-folium
+searoute
+rapidfuzz
